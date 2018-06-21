@@ -18,3 +18,7 @@ transform: rotate(0.25turn);
 .photo {
   max-height: 280px;
 }
+
+.fin {
+  padding-top: 0px;
+}
