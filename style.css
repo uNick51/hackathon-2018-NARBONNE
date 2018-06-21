@@ -1,0 +1,7 @@
+.rotate {
+transform: rotate(0.25turn);
+}
+
+.flou {
+  filter: blur(0px);
+}
