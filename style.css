@@ -5,3 +5,16 @@ transform: rotate(0.25turn);
 .flou {
   filter: blur(0px);
 }
+
+.redimention {
+  position: relative;
+}
+.redimentionImg {
+  margin-top: 28px;
+  height: 75%;
+  position: absolute;
+}
+
+.photo {
+  max-height: 280px;
+}
